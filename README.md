@@ -1,7 +1,10 @@
 # Visualization
 
   - [ ] [word2vec-explorer](https://github.com/dominiek/word2vec-explorer)
+#
 
+  - [ ] [word2vec]()
+  
 # Chinese
 
 ### segmentation
